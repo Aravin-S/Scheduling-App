@@ -1,6 +1,6 @@
 # Simple Task Manager using Flask
 
-This is a basic task manager web application built using Flask, a Python web framework. It allows users to add, edit, mark tasks as done, and delete tasks from a list.
+This is a task manager web application with CRUD functionality built using Flask, a Python web framework. It allows users to add, edit, mark tasks as done, and delete tasks from a list.
 
 ## Prerequisites
 - Python 3.x
