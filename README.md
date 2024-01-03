@@ -1,2 +1,2 @@
 # Scheduling-App
-Simple Schedule List Application using Flask and Python
+Simple CRUD Schedule List Application using Flask and Python
