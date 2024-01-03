@@ -36,5 +36,5 @@ Access the application in your browser at http://localhost:5000.
 - Tasks are stored in memory and will be reset upon restarting the application.
 
 ## Screenshots
-<img width="821" alt="Screenshot 2024-01-03 173513" src="https://github.com/Aravin-S/Task-Manager/assets/73080952/733f3d2e-618f-4e16-920b-526f79ffe30e">
+<img width="411" alt="Screenshot 2024-01-03 173513" src="https://github.com/Aravin-S/Task-Manager/assets/73080952/03c052c6-6297-4f2e-8b26-57cf13f79f55">
 
